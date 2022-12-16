@@ -1,5 +1,7 @@
 # react_pokemon_app
 
+Just to learn the framework React
+
 install nodeJs in your computer.
 
 Install react in Vs code with this file to run it.
